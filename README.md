@@ -11,7 +11,9 @@
   
 ## Python Notebooks
 `Cleaning_EDA.ipynb`
-  - WIP
+  - Cleans the dataset as well as performs EDA
+  - Creates and saves a cleaned dataset
   
 `Models.ipynb`
-  - WIP
+  - Undersamples and scales data
+  - Training and evaluating ML models
